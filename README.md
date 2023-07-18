@@ -13,11 +13,11 @@ LOGO
 ### Owners Site Goals
 
 *	Show the owners journey into amateur photography.
-*	Portray owners’ passion for landscape/wildlife photography.
+*	Portray owners passion for landscape/wildlife photography.
 *	Connect people with a passion for landscape/wildlife photography.
 *	Provide information / education on the species photographed.
 *	Provide information / education on the landscapes photographed.
-*	Allow for comments on owner’s work.
+*	Allow for comments on owners work.
 *	Allow for comments on upcoming projects.
 *	Provide useful links to support other amateur photographers.
 
@@ -28,7 +28,7 @@ LOGO
 *	I want to be able to see the galleries and where these pictures were taken.
 *	I want to see information regarding the locations and species photographed.
 *	I want to know what equipment has been used to take these photographs.
-*	I want to be able to connect to the owner’s social media.
+*	I want to be able to connect to the owners social media.
 *	I want to be able to see comments others have left.
 
 ### Returning Visitor Goals
@@ -71,7 +71,7 @@ LOGO
 
 ## Wire-Frame
 
-*	Main page - [view] (assets/wireframe/home.png)    - example link.
+*	[Main page] - (assets/wireframe/home.png)    - example link.
 *	Photos
 *	Galleries
 *	About
