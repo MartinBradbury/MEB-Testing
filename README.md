@@ -72,7 +72,7 @@ LOGO
 ## Wire-Frame
 
 *	Main page
-[Desktop](assets/wireframes/home.png)    Mobile
+[Desktop](/assets/wireframes/home.png)    Mobile
 *	Photos
 Desktop                                 Mobile
 *	Galleries
