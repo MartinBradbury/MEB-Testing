@@ -71,25 +71,30 @@ LOGO
 
 ## Wire-Frame
 
-*	[Main page](assets/wireframe/home.png)    - example link.
+*	Main page
+[Desktop](assets/wireframe/home.png)    Mobile
 *	Photos
+Desktop                                 Mobile
 *	Galleries
+Desktop                                 Mobile
 *	About
+Desktop                                 Mobile
 *	Contact
+Desktop                                 Mobile
 
 
 
 ## Features
 
-*	Responsive design
+*	Responsive design on all devices
 *	Interactive elements
 
 
 
 ## Languages
 
-*	CSS
-*	HTML5
+*	[CSS](https://en.wikipedia.org/wiki/CSS)
+*	[HTML5](https://en.wikipedia.org/wiki/HTML5)
 
 
 
