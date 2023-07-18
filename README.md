@@ -71,15 +71,15 @@ LOGO
 
 ## Wire-Frame
 
-*	Main page
+*	Main page:
 [Desktop](assets/wireframes/Home.png)    Mobile
-*	Photos
+*	Photos:
 Desktop                                 Mobile
-*	Galleries
+*	Galleries:
 Desktop                                 Mobile
-*	About
+*	About:
 Desktop                                 Mobile
-*	Contact
+*	Contact:
 Desktop                                 Mobile
 
 
