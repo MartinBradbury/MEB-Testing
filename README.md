@@ -74,7 +74,7 @@ LOGO
 *	Main page:
 [Desktop](assets/wireframes/Home.png)    Mobile
 *	Photos:
-Desktop                                 Mobile
+[Desktop](assets/wireframes/photos.png)                                 Mobile
 *	Galleries:
 Desktop                                 Mobile
 *	About:
