@@ -76,11 +76,11 @@ LOGO
 *	Photos:
 [Desktop](assets/wireframes/photos.png)                                 Mobile
 *	Galleries:
-Desktop                                 Mobile
+[Desktop](assets/wireframes/gallery.png)                                 Mobile
 *	About:
-Desktop                                 Mobile
+[Desktop](assets/wireframes/about.png)                                 Mobile
 *	Contact:
-Desktop                                 Mobile
+[Desktop](assets/wireframes/contact.png)                                 Mobile
 
 
 
