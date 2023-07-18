@@ -71,7 +71,7 @@ LOGO
 
 ## Wire-Frame
 
-*	[Main page] - (assets/wireframe/home.png)    - example link.
+*	[Main page](assets/wireframe/home.png)    - example link.
 *	Photos
 *	Galleries
 *	About
