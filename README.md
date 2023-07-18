@@ -1,39 +1,103 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# MEB Wildlife Photography: Discover Nature
 
-Welcome,
+LOGO
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## I would like to share my journey and passion of nature and its interactions. This will be a welcoming website for people to enjoy, get tips and share their insights with others on amateur photography. On this website you will get to experience some of the locations I have visited and photographed as well as some of the amazing organisms you can find accessible and out in nature. This website is aimed at users who have a passion for nature photography both landscape and organism and for those who like me, are armature photographers. Navigation through the website will be accomplished through a navigation bar which will remain constant at the top of the page. The website will be split into 4 main sections. “Home” will be eye catching and give a summary of what the user can expect to find in the website. “Photos” will display all the different galleries of photos I have taken. “About” will provide information about me and how I got into natural photography as well as the equipment I use. “Contact” will give the user the opportunity to contact me, offer advice and support or even share some of the images they have managed to capture. I hope you will enjoy the content I have created and my passion for all things nature. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+# User Experience
 
-`python3 -m http.server`
+## User Stories
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Owners Site Goals
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+*	Show the owners journey into amateur photography.
+*	Portray owners’ passion for landscape/wildlife photography.
+*	Connect people with a passion for landscape/wildlife photography.
+*	Provide information / education on the species photographed.
+*	Provide information / education on the landscapes photographed.
+*	Allow for comments on owner’s work.
+*	Allow for comments on upcoming projects.
+*	Provide useful links to support other amateur photographers.
 
-`http_server`
+### First Time Views Goals
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+*	As an individual who has a passion for landscape/wildlife photography, I want to know what the website is about and see clear navigation. 
+*	I want to be able to see and use the navigation bar to easily move to the different sections on the website.
+*	I want to be able to see the galleries and where these pictures were taken.
+*	I want to see information regarding the locations and species photographed.
+*	I want to know what equipment has been used to take these photographs.
+*	I want to be able to connect to the owner’s social media.
+*	I want to be able to see comments others have left.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Returning Visitor Goals
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+*	I want to find new galleries of different locations and wildlife.
+*	I want to learn new information about locations and species photographed.
+*	I want to find ways to get in touch if I have any questions.
+*	I want to find links that I can benefit from.
+*	I want to find information about upcoming projects.
+*	I want to find comments left by the owner and other users on the galleries.
 
-To log into the Heroku toolbelt CLI:
+### Frequent User Goals
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+*	I want to check for updated galleries and locations.
+*	I want to check for new information on landscapes and species photographed.
+*	I want to check for updates on equipment used to take the photographs. 
+*	I want to find links to social media.
+*	I want to find tips on photography and photographing nature. 
+*	I want to see updates on upcoming projects. 
+*	I want to see comments left by other users and the owner on galleries and upcoming projects.
+*	I want to find links to useful websites.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
----
 
-Happy coding!
+## Design
+
+### Colour Scheme
+
+* Simplistic black text on white background with vibrant colours from the photographs.
+
+### Typography
+
+*	The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+
+### Imagery
+
+*	Imagery is critical. A large hero image banner is designed to be eye catching whilst being consistent in all main pages on the website. The image will change on each main page, but the size and location will remain constant. These images should be striking and catch the users attention.
+
+
+
+## Wire-Frame
+
+*	Main page - [view] (assets/wireframe/home.png)    - example link.
+*	Photos
+*	Galleries
+*	About
+*	Contact
+
+
+
+## Features
+
+*	Responsive design
+*	Interactive elements
+
+
+
+## Languages
+
+*	CSS
+*	HTML5
+
+
+
+## Framework, Languages and Programs Used
+
+
+
+
+
+
+
