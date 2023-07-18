@@ -72,15 +72,15 @@ LOGO
 ## Wire-Frame
 
 *	Main page:
-[Desktop](assets/wireframes/Home.png)    [Mobile](assets/wireframes/homemobile.png)
+[Desktop](assets/wireframes/Home.png) /   [Mobile](assets/wireframes/homemobile.png)
 *	Photos:
-[Desktop](assets/wireframes/photos.png)   [Mobile](assets/wireframes/photomobile.png)
+[Desktop](assets/wireframes/photos.png) /  [Mobile](assets/wireframes/photomobile.png)
 *	Galleries:
-[Desktop](assets/wireframes/gallery.png)   [Mobile](assets/wireframes/gallerymobile.png)
+[Desktop](assets/wireframes/gallery.png) /  [Mobile](assets/wireframes/gallerymobile.png)
 *	About:
-[Desktop](assets/wireframes/about.png)     [Mobile](assets/wireframes/aboutmobile.png)
+[Desktop](assets/wireframes/about.png) /    [Mobile](assets/wireframes/aboutmobile.png)
 *	Contact:
-[Desktop](assets/wireframes/contact.png)    [Mobile](assets/wireframes/contactmobile.png)
+[Desktop](assets/wireframes/contact.png) /   [Mobile](assets/wireframes/contactmobile.png)
 
 
 
